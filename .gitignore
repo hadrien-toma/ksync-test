@@ -1,0 +1,13 @@
+bin
+.stfolder
+
+/*
+
+!/.vscode/
+!/results/
+
+!.gitignore
+!.prettierrc
+!.prettierignore
+!README.md
+!index.sh
